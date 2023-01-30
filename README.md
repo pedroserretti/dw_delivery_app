@@ -1,16 +1,14 @@
-# dw_delivery_app
+# Delivery App 
 
-A new Flutter project.
+This repository contains a project of a Delivery Burguer App with Provider, Bloc and an API with Json Rest Server
 
-## Getting Started
+Developed in event [Dart Week - 9th edition](https://academiadoflutter.com.br/dartweek) by [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman) (still in development)
 
-This project is a starting point for a Flutter application.
+## Packages 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Some packages used:
+- [Json Rest Server](https://pub.dev/packages/json_rest_server)
+- [Fluter Dotenv](https://pub.dev/packages/flutter_dotenv)
+- [Provider](https://pub.dev/packages/provider)
+- [Bloc](https://pub.dev/packages/bloc)
+- [Dio](https://pub.dev/packages/dio)
