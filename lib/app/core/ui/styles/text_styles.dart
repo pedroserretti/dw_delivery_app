@@ -18,7 +18,7 @@ class TextStyles {
   TextStyle get textRegular =>
       TextStyle(fontWeight: FontWeight.normal, fontFamily: font);
 
-  TextStyle get texMedium =>
+  TextStyle get textMedium =>
       TextStyle(fontWeight: FontWeight.w500, fontFamily: font);
 
   TextStyle get textSemiBold =>

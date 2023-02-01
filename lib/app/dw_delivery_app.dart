@@ -1,6 +1,6 @@
 import 'package:dw_delivery_app/app/core/provider/application_binding.dart';
 import 'package:dw_delivery_app/app/core/ui/theme/theme_config.dart';
-import 'package:dw_delivery_app/app/pages/home/home_router.dart';
+import 'package:dw_delivery_app/app/pages/home/widgets/home_router.dart';
 import 'package:dw_delivery_app/app/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
 
